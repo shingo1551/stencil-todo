@@ -36,6 +36,4 @@ serve -s www
 
 GitHub Pages
 
-```
 https://shingo1551.github.io/stencil-todo/
-```

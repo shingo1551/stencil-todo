@@ -9,7 +9,7 @@
 
 ### Depends on
 
-- [check-todo](.)
+- [check-todo](../check-todo)
 
 ### Graph
 ```mermaid
